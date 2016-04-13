@@ -10,6 +10,7 @@
   "properties": {
     "inPanel": false,
     "keepConfigAfterMapSwithched": false,
-    "supportMultiInstance": false
+    "supportMultiInstance": false,
+    "hasConfig":false
   }
 }
